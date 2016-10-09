@@ -1,0 +1,9 @@
+C:\Users\Hoang Quy\Desktop\Project VS\CheatYoutube\TestThread\TestThread\bin\Debug\TestThread.exe.config
+C:\Users\Hoang Quy\Desktop\Project VS\CheatYoutube\TestThread\TestThread\bin\Debug\TestThread.exe
+C:\Users\Hoang Quy\Desktop\Project VS\CheatYoutube\TestThread\TestThread\bin\Debug\TestThread.pdb
+C:\Users\Hoang Quy\Desktop\Project VS\CheatYoutube\TestThread\TestThread\obj\Debug\TestThread.csprojResolveAssemblyReference.cache
+C:\Users\Hoang Quy\Desktop\Project VS\CheatYoutube\TestThread\TestThread\obj\Debug\TestThread.Form1.resources
+C:\Users\Hoang Quy\Desktop\Project VS\CheatYoutube\TestThread\TestThread\obj\Debug\TestThread.Properties.Resources.resources
+C:\Users\Hoang Quy\Desktop\Project VS\CheatYoutube\TestThread\TestThread\obj\Debug\TestThread.csproj.GenerateResource.Cache
+C:\Users\Hoang Quy\Desktop\Project VS\CheatYoutube\TestThread\TestThread\obj\Debug\TestThread.exe
+C:\Users\Hoang Quy\Desktop\Project VS\CheatYoutube\TestThread\TestThread\obj\Debug\TestThread.pdb
