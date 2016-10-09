@@ -22,7 +22,6 @@ namespace TestThread
         {
             InitializeComponent();
             _sem = new SemaphoreSlim(this.limit); // only this.limit thread
-            object lockThis = new Object();
 
             for ( int i = 0;i<maxThread;i++)
             {
